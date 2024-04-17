@@ -58,9 +58,9 @@ With the following software and hardware list you can run all code files present
 
 
 ## Related products <Other books you may enjoy>
-* Django 5 By Example [[Packt]](https://www.packtpub.com/product/django-5-by-example-fifth-edition/9781805125457) [[Amazon]](https://www.amazon.in/dp/1805125451)
+* Django 5 By Example [[Packt]](https://www.packtpub.com/product/django-5-by-example-fifth-edition/9781805125457) [[Amazon]](https://www.amazon.com/dp/1805125451)
 
-* Mastering Flask Web Development [[Packt]](https://www.packtpub.com/product/mastering-flask-web-development/9781837633227) [[Amazon]](https://www.amazon.in/dp/1837633223)
+* Mastering Flask Web Development [[Packt]](https://www.packtpub.com/product/mastering-flask-web-development/9781837633227) [[Amazon]](https://www.amazon.com/dp/1837633223)
 
 ## Get to Know the Author
 **Arghya(argo) Saha**
